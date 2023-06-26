@@ -9,9 +9,9 @@ The objective of this project is to develop a predictive model using Logistic Re
 ### Dataset Information
 The dataset contains information related to the technical specifications of cars. Here are the column descriptions:
 
-*unique_id: Unique identifier for each respondent.
-*h1n1_worry: Worry about the H1N1 flu (0, 1, 2, 3). (0=Not worried at all, 1=Not very worried, 2=Somewhat worried, 3=Very worried)
-*h1n1_awareness: Signifies the amount of knowledge or understanding the respondent has about the H1N1 flu (0, 1, 2). (0=No knowledge, 1=Little knowledge, 2=Good knowledge)
+<br>unique_id: Unique identifier for each respondent.
+<br>h1n1_worry: Worry about the H1N1 flu (0, 1, 2, 3). (0=Not worried at all, 1=Not very worried, 2=Somewhat worried, 3=Very worried)
+<br>h1n1_awareness: Signifies the amount of knowledge or understanding the respondent has about the H1N1 flu (0, 1, 2). (0=No knowledge, 1=Little knowledge, 2=Good knowledge)
 *antiviral_medication: Indicates whether the respondent has taken antiviral vaccination (0, 1).
 *contact_avoidance: Reflects whether the respondent has avoided any close contact with people who have flu-like symptoms (0, 1).
 *bought_face_mask: Indicates whether the respondent has bought a mask (0, 1).
